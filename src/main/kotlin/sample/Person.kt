@@ -2,7 +2,7 @@ package sample
 
 /**
  * The Person.
- * 
+ *
  * @property name the name
  * @property age the age
  */
